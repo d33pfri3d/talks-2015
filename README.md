@@ -11,6 +11,16 @@
 	- JSFest ( awaiting reply )
 	- CSS DevConf ( awaiting reply )
 
+
+##I, Coder
+
+#### SUBMITTED T0
+
+	- LondonJSConf ( awaiting reply )
+	- Fluent2015 ( declined )
+
+----
+
 #Bio
 
 Language Buff, Open Source enthusiast and Father of two. I spend my days working for Boticca in London as head of Front End Development and my evenings building things. I love code in all it's forms and have a penchant for sharing knowledge.
